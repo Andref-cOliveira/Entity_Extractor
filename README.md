@@ -6,7 +6,7 @@
 
 ## Criar novo ambiente no conda e intalar pacotes necessários
 ```bash
-conda create -n <env> python==3.7
+conda create -n <env> python=3.6
 
 conda activate <env>
 
