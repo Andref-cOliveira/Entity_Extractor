@@ -22,7 +22,7 @@ dask==2.15.0
 databricks-cli==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-distributed==2.15.2
+distributed==2021.10.0
 docker==4.2.0
 docutils==0.15.2
 entrypoints==0.3
